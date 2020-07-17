@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .MienBac{
+            color: blue;
+            font-size: 25px;
+        }
+        .MienTrung{
+            color: violet;
+        }
+        .MienNam{
+            color: yellow;
+            font-size: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="MienBac">
+        <p> Hà Nội</p>
+        <p>Hải Dương</p>
+    </div>
+
+    <div class="MienTrung">
+        <p>Nghệ An</p>
+        <p>Thanh Hóa</p>
+    </div>
+
+    <div class="MienNam">
+        <p>Thành phố Hồ Chí Minh</p>
+        <p>Bà Rịa Vũng Tàu</p>
+    </div>
+</body>
+</html>
